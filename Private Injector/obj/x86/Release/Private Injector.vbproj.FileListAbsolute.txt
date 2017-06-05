@@ -1,0 +1,42 @@
+D:\Projects\leet\injector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.exe.config
+D:\Projects\leet\injector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.exe
+D:\Projects\leet\injector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.pdb
+D:\Projects\leet\injector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.xml
+D:\Projects\leet\injector\supaprivinjector\Private Injector\bin\x86\Release\InjectionLibrary.dll
+D:\Projects\leet\injector\supaprivinjector\Private Injector\obj\x86\Release\Private_Injector.Form1.resources
+D:\Projects\leet\injector\supaprivinjector\Private Injector\obj\x86\Release\Private_Injector.Resources.resources
+D:\Projects\leet\injector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.vbproj.GenerateResource.Cache
+D:\Projects\leet\injector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.exe
+D:\Projects\leet\injector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.xml
+D:\Projects\leet\injector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.pdb
+D:\Projects\leet\injector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.vbprojResolveAssemblyReference.cache
+D:\Projects\leet\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.exe.config
+D:\Projects\leet\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.exe
+D:\Projects\leet\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.xml
+D:\Projects\leet\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.pdb
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.exe.config
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.exe
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.xml
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.pdb
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.exe
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.pdb
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.xml
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private_Injector.Form1.resources
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private_Injector.Resources.resources
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.vbproj.GenerateResource.Cache
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\JLibrary.dll
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\JLibrary.pdb
+C:\Users\Super\Documents\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.vbprojResolveAssemblyReference.cache
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.exe.config
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.exe
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.pdb
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\Private Injector.xml
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\JLibrary.dll
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\bin\x86\Release\JLibrary.pdb
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.vbprojResolveAssemblyReference.cache
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private_Injector.Form1.resources
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private_Injector.Resources.resources
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.vbproj.GenerateResource.Cache
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.exe
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.xml
+C:\Users\Super\Documents\Coding\DLL Injector\supaprivinjector\supaprivinjector\Private Injector\obj\x86\Release\Private Injector.pdb
